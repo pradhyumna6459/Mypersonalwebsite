@@ -1,0 +1,197 @@
+.top-container{
+    position: relative;
+}
+.middle-container{
+    margin:100px 0px 100px 0px;
+
+    
+}
+.bottom-container{
+    background-color:#40514E;
+    padding: 50px 0;
+    
+}
+body{
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40514E;
+}
+h1{
+    margin: 50px auto  0 auto ;
+    margin-top:0;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+    font-size: 5.625rem;
+    color:black;
+    font-weight: bold;
+    padding-top:200px;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size:2.5rem;
+    color:black;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.prd-heading{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 1;
+    font-size: 4.5rem;
+    color:black;
+    font-weight: bold;
+
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color:black;
+}
+p{
+    line-height: 2;;
+}
+a{
+    color:black;
+    font-family: 'Montserrat',sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+
+}
+a:hover{
+    color:whitesmoke;
+}
+.prd-profile{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+}
+.css{
+    width:25%;
+    float: left;
+    margin-right:30px;
+}
+.html{
+    width:25%;
+    float: right;
+    margin-left:30px;
+}
+.Django{
+    width:25%;
+    float: right;
+    margin-left:30px;
+}
+.sgsits{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.kanwatara{
+    width:25%;
+    float: right;
+    margin-left:30px;
+
+}
+.paramout{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.hackerrank{
+    width:25%;
+}
+.codechef{
+    width:25%;
+}
+.information{
+    width:30%;
+    margin:auto;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color:grey;
+    height:0px;
+    width:5%;
+    margin:100px auto 100px auto;
+}
+.btn {
+    background: black;
+    background-image: -webkit-linear-gradient(top,  black, grey);
+    background-image: -moz-linear-gradient(top, black, grey);
+    background-image: -ms-linear-gradient(top, black, grey);
+    background-image: -o-linear-gradient(top, black, grey);
+    background-image: linear-gradient(to bottom, black, grey);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: black;
+    background-image: -webkit-linear-gradient(top, black, grey);
+    background-image: -moz-linear-gradient(top,  black, grey);
+    background-image: -ms-linear-gradient(top,  black, grey);
+    background-image: -o-linear-gradient(top,  black, grey);
+    background-image: linear-gradient(to bottom,  black, grey);
+    text-decoration: none;
+  }
+  
+
+.copyright{
+    color:white;
+    font-size: .75em;
+    padding:20px 0px;
+}
+
+.container-fluid{
+    padding:3% 15%;
+    
+
+}
+.navbar-brand{
+    font-size: 2rem;
+   
+}
+
+.navbar{
+    margin:0;
+    position:relative;
+     
+    
+}
+.nav-item{
+    padding:0 5px;
+}
+.nav-link{
+    font-size:1.2rem;
+    font-family:"Monterrate-light";
+}
+.bg {
+    /* The image used */
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(11).jpg");
+  
+    /* Half height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:0px;
+  }
